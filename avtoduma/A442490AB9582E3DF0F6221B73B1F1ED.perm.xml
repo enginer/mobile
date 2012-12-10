@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><permutation name="A442490AB9582E3DF0F6221B73B1F1ED">
+<variables>
+<user.agent>gecko1_8</user.agent>
+<mgwt.os>desktop</mgwt.os>
+<mobile.user.agent>not_mobile</mobile.user.agent>
+</variables>
+<files>
+<file>avtoduma/compilation-mappings.txt</file>
+<file>index.html</file>
+<file>avtoduma/A442490AB9582E3DF0F6221B73B1F1ED.cache.js</file>
+<file>logo.png</file>
+<file>avtoduma/avtoduma.devmode.js</file>
+<file>./</file>
+<file>avtoduma/avtoduma.nocache.js</file>
+<file>avtoduma/clear.cache.gif</file>
+</files>
+</permutation>

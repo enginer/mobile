@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><permutation name="661CB30702226FE2FA2CBD244AA53B62">
+<variables>
+<mobile.user.agent>mobilesafari</mobile.user.agent>
+<mgwt.os>retina</mgwt.os>
+<user.agent>safari</user.agent>
+</variables>
+<files>
+<file>avtoduma/compilation-mappings.txt</file>
+<file>index.html</file>
+<file>logo.png</file>
+<file>avtoduma/avtoduma.devmode.js</file>
+<file>./</file>
+<file>avtoduma/avtoduma.nocache.js</file>
+<file>avtoduma/clear.cache.gif</file>
+<file>avtoduma/661CB30702226FE2FA2CBD244AA53B62.cache.js</file>
+</files>
+</permutation>

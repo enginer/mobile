@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# Unique id #1355130096206.0.3104356344836795
+
+CACHE:
+# Static app files
+index.html
+logo.png
+./
+
+# GWT compiled files
+avtoduma/avtoduma.nocache.js
+avtoduma/clear.cache.gif
+avtoduma/compilation-mappings.txt
+avtoduma/3139F08C7402C1CB1E8A5A5F8A4B5E93.cache.js
+avtoduma/avtoduma.devmode.js
+
+
+# All other resources require the client to be online.
+NETWORK:
+*

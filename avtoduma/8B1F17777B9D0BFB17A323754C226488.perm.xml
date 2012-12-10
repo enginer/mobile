@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><permutation name="8B1F17777B9D0BFB17A323754C226488">
+<variables>
+<mgwt.os>blackberry</mgwt.os>
+<user.agent>safari</user.agent>
+<mobile.user.agent>not_mobile</mobile.user.agent>
+</variables>
+<files>
+<file>avtoduma/compilation-mappings.txt</file>
+<file>index.html</file>
+<file>logo.png</file>
+<file>avtoduma/avtoduma.devmode.js</file>
+<file>./</file>
+<file>avtoduma/avtoduma.nocache.js</file>
+<file>avtoduma/clear.cache.gif</file>
+<file>avtoduma/8B1F17777B9D0BFB17A323754C226488.cache.js</file>
+</files>
+</permutation>

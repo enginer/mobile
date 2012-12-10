@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><permutation name="0FFD415D0687AF47A77CB17C441F347C">
+<variables>
+<mgwt.os>android</mgwt.os>
+<user.agent>safari</user.agent>
+<mobile.user.agent>not_mobile</mobile.user.agent>
+</variables>
+<files>
+<file>avtoduma/compilation-mappings.txt</file>
+<file>avtoduma/0FFD415D0687AF47A77CB17C441F347C.cache.js</file>
+<file>index.html</file>
+<file>logo.png</file>
+<file>avtoduma/avtoduma.devmode.js</file>
+<file>./</file>
+<file>avtoduma/avtoduma.nocache.js</file>
+<file>avtoduma/clear.cache.gif</file>
+</files>
+</permutation>
